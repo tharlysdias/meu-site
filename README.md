@@ -1,5 +1,3 @@
-# tharlysdias.github.io
-
 <p align="center">
 <strong> PÁGINA WEB </strong>
 </p>
